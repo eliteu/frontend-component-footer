@@ -1,5 +1,5 @@
 {
-  "name": "@edly-io/indigo-frontend-component-footer",
+  "name": "@eliteu/indigo-frontend-component-footer",
   "version": "1.0.0",
   "description": "Footer component for use when building Open edX frontend applications",
   "main": "dist/index.js",
@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edly-io/frontend-component-footer.git"
+    "url": "git+https://gitlab.com/aimaker/frontend-component-footer.git"
   },
   "author": "edX",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/edly-io/frontend-component-footer/issues"
+    "url": "https://gitlab.com/aimaker/frontend-component-footer/issues"
   },
-  "homepage": "https://github.com/edly-io/frontend-component-footer#readme",
+  "homepage": "https://gitlab.com/aimaker/frontend-component-footer#readme",
   "devDependencies": {
     "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
     "@edx/browserslist-config": "^1.1.1",

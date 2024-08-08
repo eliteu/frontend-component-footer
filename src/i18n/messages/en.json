@@ -19,16 +19,16 @@
   "footer.legalLinks.trademarkPolicy": "Trademark Policy",
   "footer.legalLinks.sitemap": "Sitemap",
   "footer.connectLinks.heading": "Connect",
-  "footer.connectLinks.blog": "客",
+  "footer.connectLinks.blog": "Blog",
   "footer.connectLinks.contact": "Contact Us",
   "footer.connectLinks.help": "Help Center",
   "footer.connectLinks.mediaKit": "Media Kit",
-  "footer.connectLinks.donate": "捐赠",
+  "footer.connectLinks.donate": "Donate",
   "footer.mobileApp.apple": "Download the edX mobile app from the Apple App Store",
   "footer.mobileApp.google": "Download the edX mobile app from Google Play",
-  "footer.poweredby.text": "技术支持",
-  "footer.logo.altText": "由 Open edX 提供技术支持",
+  "footer.poweredby.text": "Powered by",
+  "footer.logo.altText": "Powered by Open edX",
   "footer.tutorlogo.altText": "Runs on Tutor",
-  "footer.logo.ariaLabel": "edX 主页",
-  "footer.copyright.text": "© 2024 广东英荔国际教育科技有限公司 版权所有 粤 ICP 备 13044168 号 edX 和 Open edX 为 edX Inc. 的注册商标，版权所有。"
+  "footer.logo.ariaLabel": "edX Home",
+  "footer.copyright.text": "Copyrights ©${new Date().getFullYear()}. All Rights Reserved."
 }
