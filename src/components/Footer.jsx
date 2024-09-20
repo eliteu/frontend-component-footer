@@ -80,19 +80,19 @@ class SiteFooter extends React.Component {
                 </li>
 
                 <li>
-                  <a href="https://edu.aimaker.space/user_agreement" target="_self">用户协议</a>
+                  <a href={`${getConfig().LMS_BASE_URL}/user_agreement`} target="_self">用户协议</a>
                 </li>
 
                 <li>
-                  <a href="https://edu.aimaker.space/disclaimer" target="_self">免责声明</a>
+                  <a href={`${getConfig().LMS_BASE_URL}/disclaimer`} target="_self">免责声明</a>
                 </li>
 
                 <li>
-                  <a href="https://edu.aimaker.space/privacy" target="_self">隐私政策</a>
+                  <a href={`${getConfig().LMS_BASE_URL}/privacy`} target="_self">隐私政策</a>
                 </li>
 
                 <li>
-                  <a href="https://edu.aimaker.space/help" target="_self">帮助中心</a>
+                  <a href={`${getConfig().LMS_BASE_URL}/help`} target="_self">帮助中心</a>
                 </li>
 
               </ol>
