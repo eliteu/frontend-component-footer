@@ -72,6 +72,31 @@ class SiteFooter extends React.Component {
                 </li>
               </ul>
             </div>
+            <nav className="nav-colophon" aria-label="关于我们">
+              <ol>
+
+                <li>
+                  <a href="https://aimaker.space/about/" target="_blank">英荔教育</a>
+                </li>
+
+                <li>
+                  <a href="/user_agreement" target="_self">用户协议</a>
+                </li>
+
+                <li>
+                  <a href="/disclaimer" target="_self">免责声明</a>
+                </li>
+
+                <li>
+                  <a href="/privacy" target="_self">隐私政策</a>
+                </li>
+
+                <li>
+                  <a href="/help" target="_self">帮助中心</a>
+                </li>
+
+              </ol>
+            </nav>
           </div>
           <span className="copyright-site">{intl.formatMessage(messages['footer.copyright.text'])}</span>
           {showLanguageSelector && (
