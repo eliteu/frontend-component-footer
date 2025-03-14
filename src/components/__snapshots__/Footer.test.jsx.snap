@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> renders correctly renders with a language selector 1`] = `
+<div
+  className="wrapper wrapper-footer"
+>
+  <footer
+    className="tutor-container"
+    id="footer"
+  >
+    <div
+      className="footer-top"
+    >
+      <div
+        className="powered-area"
+      >
+        <ul
+          className="logo-list"
+        >
+          <li>
+            Powered by
+          </li>
+          <li>
+            <a
+              href="https://edly.io/tutor/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <img
+                alt="Runs on Tutor"
+                className=""
+                src="http://localhost:18000/theming/asset/images/tutor-logo.png"
+                width="57"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://open.edx.org"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <img
+                alt="Powered by Open edX"
+                className=""
+                src="http://localhost:18000/theming/asset/images/openedx-logo.png"
+                width="79"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <span
+      className="copyright-site"
+    >
+      Copyrights ©2024. All Rights Reserved.
+    </span>
+    <form
+      className="form-inline"
+      onSubmit={[Function]}
+    >
+      <div
+        className="form-group"
+      >
+        <label
+          className="d-inline-block m-0"
+          htmlFor="site-footer-language-select"
+        >
+          Choose Language
+        </label>
+        <select
+          className="form-control-sm mx-2"
+          defaultValue="en"
+          id="site-footer-language-select"
+          name="site-footer-language-select"
+        >
+          <option
+            value="en"
+          >
+            English
+          </option>
+          <option
+            value="es"
+          >
+            Español
+          </option>
+        </select>
+        <button
+          className="btn btn-outline-primary btn-sm"
+          type="submit"
+        >
+          Apply
+        </button>
+      </div>
+    </form>
+  </footer>
+</div>
+`;
+
+exports[`<Footer /> renders correctly renders without a language selector 1`] = `
+<div
+  className="wrapper wrapper-footer"
+>
+  <footer
+    className="tutor-container"
+    id="footer"
+  >
+    <div
+      className="footer-top"
+    >
+      <div
+        className="powered-area"
+      >
+        <ul
+          className="logo-list"
+        >
+          <li>
+            Powered by
+          </li>
+          <li>
+            <a
+              href="https://edly.io/tutor/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <img
+                alt="Runs on Tutor"
+                className=""
+                src="http://localhost:18000/theming/asset/images/tutor-logo.png"
+                width="57"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://open.edx.org"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <img
+                alt="Powered by Open edX"
+                className=""
+                src="http://localhost:18000/theming/asset/images/openedx-logo.png"
+                width="79"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <span
+      className="copyright-site"
+    >
+      Copyrights ©2024. All Rights Reserved.
+    </span>
+  </footer>
+</div>
+`;
+
+exports[`<Footer /> renders correctly renders without a language selector in es 1`] = `
+<div
+  className="wrapper wrapper-footer"
+>
+  <footer
+    className="tutor-container"
+    id="footer"
+  >
+    <div
+      className="footer-top"
+    >
+      <div
+        className="powered-area"
+      >
+        <ul
+          className="logo-list"
+        >
+          <li>
+            Powered by
+          </li>
+          <li>
+            <a
+              href="https://edly.io/tutor/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <img
+                alt="Runs on Tutor"
+                className=""
+                src="http://localhost:18000/theming/asset/images/tutor-logo.png"
+                width="57"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://open.edx.org"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <img
+                alt="Powered by Open edX"
+                className=""
+                src="http://localhost:18000/theming/asset/images/openedx-logo.png"
+                width="79"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <span
+      className="copyright-site"
+    >
+      Copyrights ©2024. All Rights Reserved.
+    </span>
+  </footer>
+</div>
+`;
