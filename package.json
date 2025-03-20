@@ -1,10 +1,11 @@
 {
-  "name": "@aimaker/frontend-component-footer",
-  "version": "1.0.0",
+  "name": "@eliteu/frontend-component-footer",
+  "version": "1.0.1",
   "description": "Footer component for use when building Open edX frontend applications",
   "main": "dist/index.js",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "build": "make build",
